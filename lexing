@@ -1,0 +1,23 @@
+#!/user/bin/python
+# -*- coding:utf-8 -*-
+# s="spam"
+# print type(s)
+# l=list(s)
+# print type(l)
+# l2="hello world".split()
+# print l2
+# k=''.join(l2)     #list转换成str
+# print l2
+# print type(k)
+#
+# import logging
+# logging.debug('debug message')
+# logging.info('info message')
+# logging.warning('warning message')
+# logging.error('error message')
+# logging.critical('critical message')
+
+a={"1":"2"}
+print type(a)
+b="{"+'"'+"login_token"+'"'+ ":" +'"'+'de'+'"'+"}"
+print type(b)
